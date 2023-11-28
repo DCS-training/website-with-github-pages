@@ -4,6 +4,12 @@
 
 **Authors**: Aislinn Keogh and Sarah Schöttler
 
+## Preparing for this course
+
+- Prior to the course, please install Visual Studio Code on your computer (https://code.visualstudio.com)
+- You may find it helpful to already think about what you want to include on your website: photos, a brief bio, an overview of your publications, etc. You will be able to benefit from this course more if you prepare some of this content, so that you don’t spend time during class drafting your bio.
+- You might also want to block some time between week 1 and week 2 to work on your website, as we will be able to help you troubleshoot any issues that arise in week 2.
+
 ## Week 1: Getting started with an HTML template
 
 For this course, we'll be using templates from [HTML5 UP](https://html5up.net/).
