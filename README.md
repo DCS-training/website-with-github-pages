@@ -1,6 +1,7 @@
 # Build your personal or project website with GitHub Pages
 
 **Last updated**: November 2023
+
 **Authors**: Aislinn Keogh and Sarah Schöttler
 
 ## Week 1: Getting started with an HTML template
@@ -26,7 +27,7 @@ Different templates will vary a bit, but they'll all have some aspects in common
 - `/images`: This folder will contain any placeholder images that are used on the demo site. It's also where we'll add our own image files later.
 - `LICENSE.txt`: The Creative Commons Attribution for the template.
 - `README.txt`: A quick description of the template from its creator.
-- `index.html`: **The most important file**: this is your website's homepage!
+- `index.html`: **The most important file** -- this is your website's homepage!
 
 If you've chosen a multi-page template, you may have some other `.html` files; the filenames will correspond to page names in the menu.
 
@@ -35,6 +36,7 @@ If you've chosen a multi-page template, you may have some other `.html` files; t
 In order to edit the content on your website, you'll need a text editor.
 We recommend [Visual Studio Code](https://code.visualstudio.com/) but if you already have one you prefer, you can use that instead.
 The nice thing about VS Code is that it has GitHub integration, which will be useful for us next week!
+
 N.B. If you're on Windows and you can't find VS Code in your start menu after installing it, follow [these instructions](https://softdev.ppls.ed.ac.uk/online_experiments/editor_hunt.html).
 
 ### Step 4: Start adding content!
