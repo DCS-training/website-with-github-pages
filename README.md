@@ -152,7 +152,7 @@ _Next, we need to add our website files to the cloned repo, make a commit, and p
 
 1. Using Finder (on Mac) or Explorer (on Windows), copy your website files from last week—meaning the entire contents of the template you downloaded, with all the changes you made, including the assets and images folders and all html files—to your cloned repository folder, which will be named \[username\].github.io and stored in the location you just selected.
 2. In VS Code, go back to the “Source Control” tab. You will see all the added files listed under “Changes”. _Commit_ these changes by adding a commit message (e.g., “add website files”), then clicking “Commit”.
-3. Push the changes to GitHub.
+3. Click "Sync Changes" to upload your changes to GitHub.
 
 # Activate GitHub Pages
 
