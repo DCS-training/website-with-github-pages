@@ -125,9 +125,45 @@ You can also delete any line from the list to remove that page from the menu, or
 Try adding/removing some pages from the menu.
 Save the file after each change and reload it in your browser; can you see your menu changing?
 
-## Week 2: Getting it on GitHub
+## Week 2: Publishing your website with GitHub Pages
 
-Content coming soon!
+# Set up a GitHub repository for your website
+
+1. If you don’t have a GitHub account yet, go to https://github.com and sign up for an account. Your website URL will be \[username\].github.io, so choose a username you would like in your URL. If you already have an account, log in.
+2. Create a new repository by using the + button in the top right, then selecting “New repository”.
+   - For the repository name, fill in \[username\].github.io, where \[username\] is replaced with your actual username.
+   - Leave all other settings as they are.
+
+# Clone your repository to your computer
+
+_There are many different ways of doing this. The following instructions are for using VS Code, which we recommended for this course. Alternatively, you can use GitHub Desktop, git on the command line, or any other git/GitHub tool._
+
+1. In VS Code, select the “Source Control” tab (the button has a symbol with three connected small circles in it) in the sidebar on the left.
+2. Click “Clone Repository”.
+3. Click “Clone from GitHub”
+4. If you have not previously used this, you will be prompted to log in to GitHub. Follow the instructions to log in.
+5. In the list that appears, choose the repository you just created, \[username\].github.io.
+6. Select a location on your computer to store the cloned repository.
+7. VS Code will prompt you if you want to open the repository; click open. It will then prompt you if you want to “trust” the folder, accept this too.
+
+# Add your website files to the repository
+
+_Next, we need to add our website files to the cloned repo, make a commit, and push (upload) this to GitHub. Here are detailed instructions for doing this using VS Code._
+
+1. Using Finder (on Mac) or Explorer (on Windows), copy your website files from last week—meaning the entire contents of the template you downloaded, with all the changes you made, including the assets and images folders and all html files—to your cloned repository folder, which will be named \[username\].github.io and stored in the location you just selected.
+2. In VS Code, go back to the “Source Control” tab. You will see all the added files listed under “Changes”. _Commit_ these changes by adding a commit message (e.g., “add website files”), then clicking “Commit”.
+3. Push the changes to GitHub.
+
+# Activate GitHub Pages
+
+_Finally, we need to activate GitHub Pages on GitHub._
+
+1. Go to the GitHub page for the repository you created earlier. You should be able to see the files you just uploaded from VS Code here.
+2. Go to the "Settings" tab.
+3. On the left, click the "Pages" tab.
+4. Under "Source", "Deploy from a branch" should already be selected.
+5. Under "Branch", select your "main" branch (this should be the only branch available).
+6. Click save.
 
 ## Further resources
 
