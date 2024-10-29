@@ -1,6 +1,6 @@
 # Build your personal or project website with GitHub Pages
 
-**Last updated**: November 2023
+**Last updated**: October 2024
 
 **Authors**: Aislinn Keogh and Sarah Schöttler
 
@@ -167,6 +167,15 @@ _Finally, we need to activate GitHub Pages on GitHub._
 
 Your website should now be live on \[username\].github.io! It may take a few minutes to show up.
 
+## Making changes to your website
+
+_To update your website after it is published, follow these steps:_
+
+1. Make your edits using VS Code (or your chosen text editor) and save them. Check everything looks good using your browser, as described above.
+2. Once you are happy with your changes, switch to the Source Control tab in VS Code. You will see a list of your changes.
+3. Enter a commit message in the field at the bottom, commit, then sync with GitHub (you should see buttons for all these actions).
+4. It may take a few minutes to update, then you should be able to see your changes online.
+
 ## Further resources
 
 - [Short (1-2 hour) tutorial on building a website using an HTML template](https://www.natecation.com/making-a-website-for-free/) (covers much of the same content we went through in Week 1)
@@ -174,6 +183,6 @@ Your website should now be live on \[username\].github.io! It may take a few min
 
 ## Feedback
 
-If you attended this course, please fill out our [feedback form](https://forms.office.com/r/YYNrqvuNr8).
+If you attended this course, please fill out our feedback form; you will receive the link via Email or Teams at the end of the course.
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
