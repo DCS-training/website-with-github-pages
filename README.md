@@ -183,6 +183,6 @@ _To update your website after it is published, follow these steps:_
 
 ## Feedback
 
-If you attended this course, please fill out our feedback form; you will receive the link via Email or Teams at the end of the course.
+If you attended this course, please fill out our [feedback form](https://forms.office.com/r/YYNrqvuNr8).
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
