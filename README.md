@@ -167,6 +167,12 @@ _Finally, we need to activate GitHub Pages on GitHub._
 
 Your website should now be live on \[username\].github.io! It may take a few minutes to show up.
 
+### Optional: Using a custom domain
+
+If you own a custom domain, for example `yourname.com`, you can use this domain instead of `yourname.github.io`. To do this, follow the instructions provided by GitHub [here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site). There is some jargon in this article – try to follow it as best you can. Your _DNS Provider_ is usually the website you purchased your domain from, for example GoDaddy or NameCheap.
+
+Please note that if you have any other websites published from any of your GitHub repositories, those links will start forwarding to your custom domain as well. For example, if you had a site at `yourname.github.io/example-repo`, this will now forward to `yourname.com/example-repo`. If you're not sure what this means or if this is relevant for you, it probably isn't, so just go ahead with your custom domain.
+
 ## Making changes to your website
 
 _To update your website after it is published, follow these steps:_
